@@ -67,3 +67,11 @@ header a:hover{
   min-height:30px;
   text-align: center;
 }
+
+#spotify{
+  background:#000000;
+  color:#FFFFFF;
+  text-align:center;
+  font-size:72px;
+  min-height:1080px;
+}
