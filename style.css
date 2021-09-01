@@ -22,7 +22,7 @@ header{
   background:#FFFFFF;
   color:#000000;
   min-height:70px;
-  border-bottom:##3a59b3 3px solid;
+  border-bottom:#3a59b3 3px solid;
 }
 
 header a{
@@ -62,7 +62,7 @@ header a:hover{
 /*bottom bar*/
 #bottombar{
   padding:20px;
-  background:##3a59b3;
+  background:#3a59b3;
   color:#000000;
   min-height:30px;
   text-align: center;
